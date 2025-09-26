@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+.env/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
